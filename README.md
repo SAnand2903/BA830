@@ -1,4 +1,4 @@
-# $\textbf{ Clickbait or Connection? Cracking the Code of Likes on YouTube's Trending Page }$
+### $\textbf{ Clickbait or Connection? Cracking the Code of Likes on YouTube's Trending Page }$
 $\textit{Team Members: Atharva Lokhande, Pritam Pandit, Rishabh Anand, Saumya Anand}$
 ![clickbait_journalism](https://github.com/SAnand2903/BA830/assets/144278601/f7ae3f86-b34d-41a4-9cf3-31429698c055)
 
